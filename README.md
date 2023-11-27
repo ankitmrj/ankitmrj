@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankitmrj
+- 👋 Hi, I’m @ankitsri
 - 👀 I’m interested in solving problems
 - 🌱 I’m currently learning algorithm
 - 💞️ I’m looking to collaborate on ...
