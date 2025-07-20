@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on impactful Open Source projects.
 - 🚀 I build web apps, contribute to open source, and explore ML & IoT.
 - 📫 Reach me at: ankitsrivastav.resume@gmail.com
+- 📫 Connect me at: https://www.linkedin.com/in/ankit2005/
 
 - ## 🎯 Competitive Programming Stats
 <div align="center">
