@@ -10,10 +10,10 @@
 
 ### 🏆 CodeForces
 <img src="https://codeforces-readme-stats.vercel.app/api/card?username=as2003&theme=dark&show_icons=true" alt="CodeForces Stats"/>
-
-### 💻 LeetCode
-<img src="https://leetcode.card.workers.dev/ankitsrivastav?theme=dark&font=baloo&extension=null" alt="LeetCode Stats"/>
 </div>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmrj" alt="ankitsrivastav" /></a> </p>
+
 
 ### 🔗 Connect with Me
 - 🌐 Portfolio: [ankitsrivastavmmmut.netlify.app](https://ankitsrivastavmmmut.netlify.app/)
