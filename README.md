@@ -6,7 +6,7 @@
 - 📫 Reach me at: ankitsrivastav.resume@gmail.com
 - 📫 Connect me at: https://www.linkedin.com/in/ankit1srivastav/
 - <a href="https://codeforces.com/profile/as2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="as2003" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhav._sri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav._sri" height="30" width="40" /></a>
+<a href="https://instagram.com/vaibhav_srii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vaibhav._sri" height="30" width="40" /></a>
 
 - ## 🎯 Competitive Programming Stats
 <div align="center">
