@@ -12,7 +12,7 @@
 <div align="center">
 
 ### 🏆 CodeForces
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ankit_20&theme=dark&show_icons=true" alt="CodeForces Stats"/>
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ankit_201&theme=dark&show_icons=true" alt="CodeForces Stats"/>
 </div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitmrj" alt="ankitsrivastav" /></a> </p>
