@@ -21,6 +21,6 @@
 ### 🔗 Connect with Me
 - 🌐 Portfolio: [ankitsrivastavmmmut.netlify.app](https://ankitsrivastavmmmut.netlify.app/)
 - 🧠 Codeforces (Specialist): [codeforces.com/profile/ankit_201](https://codeforces.com/profile/ankit_201)
-- 🧩 LeetCode: [leetcode.com/u/ankitsrivastav](https://leetcode.com/u/Ankit_Srivastav/)
+- 🧩 LeetCode: [leetcode.com/u/ankit_201](https://leetcode.com/u/ankit_201/)
 - 💼 LinkedIn: [https://www.linkedin.com/in/ankit1srivastav/)
 
