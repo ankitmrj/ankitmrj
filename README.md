@@ -135,12 +135,6 @@ Web Developer | Open Source Enthusiast | Competitive Programmer | Avid Learner �
 
 <br/>
 
-<h2>My Contribution Graph 💹 </h2>
-
-![Ankit's Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitmrj&custom_title=Ankit's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
-![Snake animation](https://raw.githubusercontent.com/ankitmrj/ankitmrj/output/github-snake.svg)
 <div align="center">
     <h3 align="center">Show some ❤️ by starring some of the repositories!</h3>
 </div>
