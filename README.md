@@ -6,9 +6,8 @@
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"> , I am Ankit!!
 </h1>
 
-<h3 align="center">
-Web Developer | Open Source Enthusiast | Competitive Programmer | Avid Learner ✨
-</h3>
+                                                    A N K I T  S R I V A S T A V ✨
+                                   Web Developer | Open Source Enthusiast | Competitive Programmer | Avid Learner
 
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
