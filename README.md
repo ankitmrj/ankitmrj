@@ -68,14 +68,6 @@ Web Developer | Open Source Enthusiast | Competitive Programmer | Avid Learner �
 
 <h2 align="center">Statistics</h2>
 
-## 🎯 Competitive Programming Stats
-
-<div align="center">
-
-### 🏆 CodeForces
-
-<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ankit_201&theme=dark&show_icons=true" alt="CodeForces Stats"/>
-
 </div>
 
 <div align="center">
@@ -97,6 +89,15 @@ Web Developer | Open Source Enthusiast | Competitive Programmer | Avid Learner �
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitmrj&theme=2077" height="180em" alt="ankitmrj" />
 
 </div>
+
+## 🎯 Competitive Programming Stats
+
+<div align="center">
+
+### 🏆 CodeForces
+
+<img src="https://codeforces-readme-stats.vercel.app/api/card?username=ankit_201&theme=dark&show_icons=true" alt="CodeForces Stats"/>
+
 
 <details>
 <summary align="center"></summary>
