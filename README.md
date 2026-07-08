@@ -67,25 +67,25 @@
 
 <h2 align="center">Statistics</h2>
 
-</div>
-
 <div align="center">
 
 <a href="https://github.com/ankitmrj">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitmrj&theme=nightowl&hide_border=true&fire=DD2727" height="180em" alt="ankitmrj" />
+<img src="https://streak-stats.demolab.com?user=ankitmrj&theme=nightowl&hide_border=true" height="180"/>
 
-<br/>
+<br><br>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitmrj&theme=2077" height="180em" alt="ankitmrj" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitmrj&theme=2077" height="180"/>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitmrj&theme=2077" height="180em" alt="ankitmrj" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitmrj&theme=2077" height="180"/>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitmrj&theme=2077" height="180em" alt="ankitmrj" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitmrj&theme=2077" height="180"/>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitmrj&theme=2077" height="180em" alt="ankitmrj" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitmrj&theme=2077" height="180"/>
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitmrj&theme=2077" height="180em" alt="ankitmrj" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitmrj&theme=2077"/>
+
+</a>
 
 </div>
 
