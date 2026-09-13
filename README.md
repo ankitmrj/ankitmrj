@@ -27,7 +27,7 @@
   
 - 💬 Ask me about Java, C, C++, Git, GitHub, Web Development
   
-- 💼 Portfolio - [Portfolio]([(https://ankitsde.vercel.app/)])
+- 💼 Portfolio - https://ankitsde.vercel.app/
   
 - 😄 Pronouns: He/His
 
