@@ -18,11 +18,17 @@
 <h3> 👨🏻‍💻 &nbsp;About Me: </h3>
 
 - 🎓 I am in my Final Year of BTech in Computer Science and Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur
+  
 - 🔭 I'm currently working as an Associate Software Engineer Intern at Accenture
+  
 - 👯 I’m looking to collaborate with - Open Source Projects
+  
 - 🌱 I’m currently learning Web Development & DSA
+  
 - 💬 Ask me about Java, C, C++, Git, GitHub, Web Development
+  
 - 💼 Portfolio - [Portfolio](https://ankitsrivastavmmmut.netlify.app/)
+  
 - 😄 Pronouns: He/His
 
 <h3 align="left">Connect with me:</h3>
